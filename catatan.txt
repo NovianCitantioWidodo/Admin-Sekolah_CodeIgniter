@@ -1,0 +1,21 @@
+Controller
+->admin
+  -Admin_mahasiswa.php
+  -Admin_dosen.php
+  -Admin_jadwal.php
+
+->user
+  -mahasiswa
+  -dosen
+  -jadwal
+
+Model
+->admin
+  -Admin_modelmahasiswa.php
+  -Admin_modeldosen.php
+  -Admin_modeljadwal.php
+
+->user
+  -mahasiswa
+  -dosen
+  -jadwal
